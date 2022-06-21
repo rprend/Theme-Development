@@ -1,0 +1,11 @@
+[Mon Jun 20 20:53:08.434762 2022] [mpm_event:notice] [pid 91334:tid 8632741376] AH00489: Apache/2.4.43 (Unix) configured -- resuming normal operations
+[Mon Jun 20 20:53:08.435221 2022] [core:notice] [pid 91334:tid 8632741376] AH00094: Command line: '/Users/ryanprendergast/Library/Application Support/Local/lightning-services/apache-2.4.43+7/bin/darwin/bin/httpd -D FOREGROUND -f /Users/ryanprendergast/Library/Application Support/Local/run/jLcKQbiNK/conf/apache/apache2.conf'
+[Mon Jun 20 21:19:26.813952 2022] [mpm_event:notice] [pid 91334:tid 8632741376] AH00491: caught SIGTERM, shutting down
+[Mon Jun 20 21:19:29.312176 2022] [mpm_event:notice] [pid 95497:tid 8641605120] AH00489: Apache/2.4.43 (Unix) configured -- resuming normal operations
+[Mon Jun 20 21:19:29.327398 2022] [core:notice] [pid 95497:tid 8641605120] AH00094: Command line: '/Users/ryanprendergast/Library/Application Support/Local/lightning-services/apache-2.4.43+7/bin/darwin/bin/httpd -D FOREGROUND -f /Users/ryanprendergast/Library/Application Support/Local/run/jLcKQbiNK/conf/apache/apache2.conf'
+[Mon Jun 20 21:19:32.336285 2022] [mpm_event:notice] [pid 95497:tid 8641605120] AH00491: caught SIGTERM, shutting down
+[Mon Jun 20 21:28:04.128387 2022] [mpm_event:notice] [pid 96995:tid 8672001536] AH00489: Apache/2.4.43 (Unix) configured -- resuming normal operations
+[Mon Jun 20 21:28:04.128935 2022] [core:notice] [pid 96995:tid 8672001536] AH00094: Command line: '/Users/ryanprendergast/Library/Application Support/Local/lightning-services/apache-2.4.43+7/bin/darwin/bin/httpd -D FOREGROUND -f /Users/ryanprendergast/Library/Application Support/Local/run/jLcKQbiNK/conf/apache/apache2.conf'
+[Mon Jun 20 21:31:55.353302 2022] [mpm_event:notice] [pid 96995:tid 8672001536] AH00491: caught SIGTERM, shutting down
+[Mon Jun 20 21:31:57.512643 2022] [mpm_event:notice] [pid 97337:tid 8633925120] AH00489: Apache/2.4.43 (Unix) configured -- resuming normal operations
+[Mon Jun 20 21:31:57.513330 2022] [core:notice] [pid 97337:tid 8633925120] AH00094: Command line: '/Users/ryanprendergast/Library/Application Support/Local/lightning-services/apache-2.4.43+7/bin/darwin/bin/httpd -D FOREGROUND -f /Users/ryanprendergast/Library/Application Support/Local/run/jLcKQbiNK/conf/apache/apache2.conf'
